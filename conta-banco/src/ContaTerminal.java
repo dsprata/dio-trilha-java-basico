@@ -31,6 +31,5 @@ public class ContaTerminal {
         System.out.println("\nOlá " + nomeCliente + ", obrigado por criar uma conta em nosso banco,");
         System.out.println("sua agência é " + agencia + ", conta " + conta + " e seu saldo " + saldo + " já está disponível para saque.");
     }
-
-    // Métodos getter e setter
+        
 }
